@@ -51,6 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Ignore files in Keil Projects
+# Ignore Keil Project files
 **/*.uvguix.*
 **/*.uvoptx
