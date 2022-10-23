@@ -52,4 +52,5 @@ Mkfile.old
 dkms.conf
 
 # Ignore files in Keil Projects
-*.uvguix.*
+**/*.uvguix.*
+**/*.uvoptx
