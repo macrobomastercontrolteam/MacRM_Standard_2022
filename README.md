@@ -12,3 +12,5 @@ Same architecture to 2019:
 
 # Branches
 - test_no_ref: test all other features without referee system by ignoring ref errrors
+- chassis/branchname: branch that focuses on chassis improvement
+- gimbal/branchname: branch that focuses on gimbal improvement
