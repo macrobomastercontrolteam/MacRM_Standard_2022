@@ -54,3 +54,4 @@ dkms.conf
 # Ignore Keil Project files
 **/*.uvguix.*
 **/*.uvoptx
+MDK-ARM/
