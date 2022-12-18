@@ -1,6 +1,11 @@
 # MacRM_Standard_2022
 McMaster Robomaster Standard Infantry Robot Code for 2022 A&amp;M University Lone Star Competition
-Modified and inherited from previous code.
+
+Developed based on "RoboMaster competition robot 2020 self-assembly version A". Refer to user manuals posted on
+> "File download: [RoboMaster Competition Robot 2020 Self-Assembled Version A Type Related Documents](https://rm-static.djicdn.com/documents/26898/57bcb7163d7bd1575980335867998835.7z)"
+
+on 
+> RM's Official website: https://www.robomaster.com/zh-CN/resource/pages/announcement/1081.
 
 # Firmware Environment
 - Type C Development Board
